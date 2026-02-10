@@ -31,10 +31,14 @@ Most AI tools function as "Vending Machines" (Input -> Output). This project tra
 
 ### **The Proprioceptive Bridge: Body, Mind, & Machine**
 The core innovation of this project is the application of **Proprioception** (the internal sense of one's own state) to the reasoning process:
+**The Concept:** Intelligence requires Proprioception—an internal sense of one’s own state. Without it, a body cannot balance, a mind cannot reason without bias, and an AI cannot avoid "Typicality."
 
+**The Lineage:**
 1.  **Somatic (Irene Dowd):** Proprioception as the "internal eye" of the body. In this project, we treat **Reasoning** as a movement that requires microscopic "neuromuscular" correction to stay balanced.
 2.  **Quantum (David Bohm):** The "Proprioception of Thought." By externalizing our thinking into a multi-agent dialogue, we gain the ability to "feel" the movement of our own logic, catching biases and typicality before they settle.
 3.  **Agentic (v1.2):** We implement this via the **Advocate, Skeptic, and Scribe** loop. This creates "Digital Proprioception," where the system audits its own trajectory toward **Discovery** rather than just **Retrieval.**
+
+**The Mirror Effect:** The machine acts as a "Catalyst for the Curious". It doesn't replace your intuition; it provides the "resistance" necessary for your own creative genesis to become visible.
 
 ---
 
