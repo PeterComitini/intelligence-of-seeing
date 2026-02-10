@@ -1,8 +1,8 @@
 # Intelligence of Seeing: Socratic Spiral
 
-**A multi-agent Socratic reasoning framework for navigating AI ambiguity.**
+**A multi-agent Socratic reasoning framework for navigating AI ambiguity and catalyzing high-resolution thought.**
 
-Inspired by the theories of **Rudolf Arnheim** (Visual Thinking) and **David Bohm** (Wholeness and Dialogue), this project implements a "Proprioceptive" logic loop to refine Large Language Model outputs and identify structural hallucinations.
+Inspired by the theories of **Rudolf Arnheim** (Visual Thinking) and **David Bohm** (Wholeness and Dialogue), this project implements a "Proprioceptive" logic loop designed to identify structural hallucinations and optimize for original, non-typical reasoning. By externalizing the internal Socratic dialogue, we move the Large Language Model from simple prediction to a state of strategic architectural discovery.
 
 ---
 
