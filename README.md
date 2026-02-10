@@ -22,3 +22,25 @@ During the development of **v1.1**, this system identified a fundamental hurdle:
 
 ## 📂 Project Evolution
 You can find the iterative history of this project, including the code for each breakthrough, in the [Milestones Folder](./milestones).
+
+# 📂 Project Milestones: The Externalized Mind
+
+This folder tracks the evolution of the **Intelligence of Seeing** from a technical experiment into an **Externalized Cognitive Sandbox.**
+
+### **The "Catalyst for the Curious" Philosophy**
+Most AI tools function as "Vending Machines" (Input -> Output). This project transforms the LLM into a "Studio" (Input -> Dialogue -> Refined Insight). We are manifesting the internal Socratic dialogue—the silent debate between intuition and rigor—and making it visible through agentic orchestration.
+
+---
+
+### **The Proprioceptive Bridge: Body, Mind, & Machine**
+The core innovation of this project is the application of **Proprioception** (the internal sense of one's own state) to the reasoning process:
+
+1.  **Somatic (Irene Dowd):** Proprioception as the "internal eye" of the body. In this project, we treat **Reasoning** as a movement that requires microscopic "neuromuscular" correction to stay balanced.
+2.  **Quantum (David Bohm):** The "Proprioception of Thought." By externalizing our thinking into a multi-agent dialogue, we gain the ability to "feel" the movement of our own logic, catching biases and typicality before they settle.
+3.  **Agentic (v1.2):** We implement this via the **Advocate, Skeptic, and Scribe** loop. This creates "Digital Proprioception," where the system audits its own trajectory toward **Discovery** rather than just **Retrieval.**
+
+---
+
+### **Key Breakthroughs**
+* **v1.1: The Socratic Foundation:** Initial proof of the three-agent loop. Identified the "Circularity Paradox."
+* **v1.2: The Spokesperson Update:** Introduced the **Universal Presenter** with "Strategic Advisor" mode to bridge the gap between machine logic and human design strategy.
