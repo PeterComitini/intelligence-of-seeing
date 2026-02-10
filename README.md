@@ -20,9 +20,6 @@ This system replaces the "Black Box" of a single AI prompt with a dynamic, multi
 ## 🚀 Key Discovery: The Circularity Paradox
 During the development of **v1.1**, this system identified a fundamental hurdle: AI self-monitoring often fails because it relies on the same internal model it is trying to correct. Version **v1.2** introduces the "Presenter" agent specifically to bridge this gap between machine "feeling" and human "seeing."
 
-## 📂 Project Evolution
-You can find the iterative history of this project, including the code for each breakthrough, in the [Milestones Folder](./milestones).
-
 # 📂 Project Milestones: The Externalized Mind
 
 This folder tracks the evolution of the **Intelligence of Seeing** from a technical experiment into an **Externalized Cognitive Sandbox.**
@@ -44,3 +41,7 @@ The core innovation of this project is the application of **Proprioception** (th
 ### **Key Breakthroughs**
 * **v1.1: The Socratic Foundation:** Initial proof of the three-agent loop. Identified the "Circularity Paradox."
 * **v1.2: The Spokesperson Update:** Introduced the **Universal Presenter** with "Strategic Advisor" mode to bridge the gap between machine logic and human design strategy.
+
+
+## 📂 Project Evolution: The Externalized Mind
+This project is an iterative journey from a technical experiment to an **Externalized Cognitive Sandbox.** You can find the "Sedimentary Record" of every breakthrough—including the code for the Circularity Paradox and the v1.2 Spokesperson update—in the [Milestones Folder](./milestones).
